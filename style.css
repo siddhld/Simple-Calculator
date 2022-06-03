@@ -48,7 +48,7 @@ button {
   width: 50px;
   background-color: #ecf0f3;
   box-shadow: inset -5px -5px 12px #ffffff, 5px 5px 12px rgba(0, 0, 0, 0.16);
-  border-radius: 50%;
+  border-radius: 18px;
   border: none;
   margin: 10px;
   font-size: 17px;
